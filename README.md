@@ -9,6 +9,12 @@ git clone {url}
 cd flask_cgi_test
 ```
 
+### ライブラリインストール
+
+```
+python3.9 -m install flask
+```
+
 ### 権限付与
 
 ```
@@ -21,6 +27,12 @@ chmod 600 hello.py
 ```
 git reset --hard
 git pull
+```
+
+or
+
+```
+sh script/setup.sh
 ```
 
 ## 参考サイト
