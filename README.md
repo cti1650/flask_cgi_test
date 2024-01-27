@@ -12,7 +12,7 @@ cd flask_cgi_test
 ### ライブラリインストール
 
 ```
-python3.9 -m install flask
+python3.9 -m pip install flask
 ```
 
 ### 権限付与
