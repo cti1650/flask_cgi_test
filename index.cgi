@@ -1,4 +1,4 @@
-#! ~/.linuxbrew/bin/python3.9
+#!~/.linuxbrew/bin/python3.9
 from wsgiref.handlers import CGIHandler
 from hello import app
 
